@@ -19,6 +19,8 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+//New Line for GitHub
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
