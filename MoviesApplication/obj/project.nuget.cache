@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1eVxlcBjXKV9rhwEefymUtnZoI1Ou2+rltIw5KJh06MH1U7NyHwhM0rccBUw5ygQt9ro5DPbAPQPTeDpbu76gw==",
+  "dgSpecHash": "fDu9uhq0KMd0xyM1ccY2RppeNvWJOdT9JhdhRCi+eRb603AXHJi4BOlgzW0U6qpM2dvNtanc7VeWxFKcP4BEzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Martin Vetov C++\\MoviesApplication\\MoviesApplication\\MoviesApplication.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\TestApplication\\MoviesApplication\\MoviesApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
